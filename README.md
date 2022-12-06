@@ -7,4 +7,5 @@
 - <a href="e2e_data_handling.ipynb">e2e_data_handling.ipynb</a><br>
   E2E dataset の取り出し手順の確認 ＆ データの諸元を観察するコード
 - <a href="seq2seq_with_attention_for_E2E.ipynb">seq2seq_with_attention_for_E2E.ipynb</a><br>
-  seq2seq_with_attention.ipynb を E2E dataset 用に書き換えたコード
+  seq2seq_with_attention.ipynb を E2E dataset 用に書き換えたコード<br>
+  単純な seq2seq であり，[Dusk and Jurcicek, 2016] のように beam search / reranker を組み込んでいない。
