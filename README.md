@@ -9,3 +9,5 @@
 - <a href="seq2seq_with_attention_for_E2E.ipynb">seq2seq_with_attention_for_E2E.ipynb</a><br>
   seq2seq_with_attention.ipynb を E2E dataset 用に書き換えたコード<br>
   単純な seq2seq であり，[Dusk and Jurcicek, 2016] のように beam search / reranker を組み込んでいない。
+- <a href="BLEU_example.ipynb">BLEU_example.ipynb</a><br>
+  nltk.translate.の使用例<br>
